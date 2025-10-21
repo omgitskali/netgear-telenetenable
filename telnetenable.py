@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "pycryptodome",
+# ]
+# ///
+
 # Copyright (c) 2009 Paul Gebheim
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
